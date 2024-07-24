@@ -26,4 +26,3 @@
 
 </div>
 
-   ![Snake animation](https://github.com/Guilherme-Soffa/Guilherme-Soffa/blob/output/github-contribution-grid-snake.svg)
